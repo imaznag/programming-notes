@@ -11,3 +11,9 @@
 
 1. [How to Fetch Data in React from a GraphQL API](https://www.youtube.com/watch?v=N9jK9ipnPw8)
 2. [GraphQL Tutorial #26 - Making Queries from React](https://www.youtube.com/watch?v=uyrUI1tgayk)
+
+## Testing API
+
+**Videos**
+
+1. [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
