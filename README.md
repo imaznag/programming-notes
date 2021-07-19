@@ -24,3 +24,4 @@
 **Videos**
 
 1. [Wordpress Headless CMS, GraphQL, and Nextjs - Let's Build a Blog](https://www.youtube.com/watch?v=YZR6P6Q0tmc)
+2. [Strapi Crash Course (with React & GraphQL)](https://www.youtube.com/watch?v=4Ntd414raYc)
