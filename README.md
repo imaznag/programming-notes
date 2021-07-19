@@ -5,7 +5,8 @@
 **Articles**
 
 1. [Send GraphQL queries with the Fetch API (without using Apollo, URQL or other GraphQL clients)](https://www.netlify.com/blog/2020/12/21/send-graphql-queries-with-the-fetch-api-without-using-apollo-urql-or-other-graphql-clients/)
-2. [Evolution of writing Graphql Schema](https://dilipkumar.medium.com/evolution-of-writing-graphql-schema-for-server-side-879907d8c698)
+2. [GraphQL the Simple Way, or: Don't Use Apollo](https://httptoolkit.tech/blog/simple-graphql-server-without-apollo/)
+3. [Evolution of writing Graphql Schema](https://dilipkumar.medium.com/evolution-of-writing-graphql-schema-for-server-side-879907d8c698)
 
 **Videos**
 
