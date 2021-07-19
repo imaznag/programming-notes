@@ -18,3 +18,9 @@
 **Videos**
 
 1. [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
+
+## Headless CMS
+
+**Videos**
+
+1. [Wordpress Headless CMS, GraphQL, and Nextjs - Let's Build a Blog](https://www.youtube.com/watch?v=YZR6P6Q0tmc)
