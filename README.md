@@ -33,3 +33,4 @@
 
 1. [Learning Flutter & Dart](https://panin.org/learning-flutter-dart.html)
 2. [What is the difference between a container and column widget in Flutter?](https://stackoverflow.com/questions/58262737/what-is-the-difference-between-a-container-and-column-widget-in-flutter)
+1. [Flutter - How To ALWAYS Know What Type A Widget Property Takes](https://www.youtube.com/watch?v=lcO7c99FjyU)
