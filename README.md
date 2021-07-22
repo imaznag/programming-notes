@@ -54,3 +54,9 @@
 
 1. [How To Show Featured Post Only On Home Page On Blogger](https://www.meersworld.net/2020/01/how-to-show-featured-post-only-on-homepage.html)
 2. [How to Create Blogger Template from Scratch](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/)
+
+## Lunix
+
+**Videos**
+
+1. [Linux cli commands every developer must know: watch, tail, grep with option flags](https://www.youtube.com/watch?v=BVej6hIX4iA)
