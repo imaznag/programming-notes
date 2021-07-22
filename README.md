@@ -14,6 +14,7 @@
 2. [GraphQL Tutorial #26 - Making Queries from React](https://www.youtube.com/watch?v=uyrUI1tgayk)
 3. [Introduction to GraphQL with Apollo and React](https://www.youtube.com/watch?v=eCO6MvvRhXk)
 4. [Four GraphQL Clients Compared](https://www.youtube.com/watch?v=zJvB2hnsXr0)
+5. [GraphQL Tutorial #2: Defining a GraphQL Schema](https://www.youtube.com/watch?v=30EpWsKbxtw)
 
 ## Testing API
 
