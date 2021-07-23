@@ -42,6 +42,7 @@
 
 1. [Flutter - How To ALWAYS Know What Type A Widget Property Takes](https://www.youtube.com/watch?v=lcO7c99FjyU)
 2. [Flutter - Widget Properties Explained (For Programming Beginners)](https://www.youtube.com/watch?v=s2zQEOUrTT4)
+3. [Flutter Tutorial - PDF Document Viewer](https://www.youtube.com/watch?v=IvzmzS6SG4M)
 
 ## Reactjs
 
