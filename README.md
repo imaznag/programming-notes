@@ -52,6 +52,7 @@
 1. [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
 2. [How to connect your React app to a backend on the same origin](https://flaviocopes.com/how-to-serve-react-from-same-origin/)
 3. [React for Beginners: Complete React Cheatsheet for 2021](https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/)
+4. [This is why we need to bind event handlers in Class Components in React](https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/)
 
 ## Blogger (google blogs)
 
