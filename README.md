@@ -38,6 +38,7 @@
 2. [What is the difference between a container and column widget in Flutter?](https://stackoverflow.com/questions/58262737/what-is-the-difference-between-a-container-and-column-widget-in-flutter) 
 3. [Anatomy of the Flutter](https://coder-k.in/flutter-tutorials/) 
 4. [How to do this in Flutter?](https://howtodothisinflutter.com/) 
+5. [Create one class for All text style like this :](https://stackoverflow.com/questions/60413218/set-color-to-text-widget-in-app-universally-in-flutter-without-mentioning-the-th)
 
 **Videos**
 
