@@ -39,6 +39,7 @@
 3. [Anatomy of the Flutter](https://coder-k.in/flutter-tutorials/) 
 4. [How to do this in Flutter?](https://howtodothisinflutter.com/) 
 5. [Create one class for All text style like this :](https://stackoverflow.com/questions/60413218/set-color-to-text-widget-in-app-universally-in-flutter-without-mentioning-the-th)
+6. [Use Functional Widgets in Flutter to Reduce Boilerplate Code](https://medium.com/flutter-community/use-functional-widgets-in-flutter-to-reduce-boilerplate-code-9e815c2ddb94)
 
 **Videos**
 
