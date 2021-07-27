@@ -49,6 +49,7 @@
 4. [Top 10 Widgets every Flutter Developer should know!](https://www.youtube.com/watch?v=hLLz_yzLWcU)
 5. [15# Navigator PushNamed and Routes](https://www.youtube.com/watch?v=gmqD09eXcYk)
 6. [How to create a reusable Widgets in Flutter | Custom Widgets | Custom Text](https://www.youtube.com/watch?v=3iv-5du7hfI)
+7. [Best way of create splash screen in android flutter app](https://www.youtube.com/watch?v=0tsxOLTtxdc)
 
 ## Reactjs
 
