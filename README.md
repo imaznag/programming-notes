@@ -46,6 +46,7 @@
 2. [Flutter - Widget Properties Explained (For Programming Beginners)](https://www.youtube.com/watch?v=s2zQEOUrTT4)
 3. [Flutter Tutorial - PDF Document Viewer](https://www.youtube.com/watch?v=IvzmzS6SG4M)
 4. [Top 10 Widgets every Flutter Developer should know!](https://www.youtube.com/watch?v=hLLz_yzLWcU)
+5. [15# Navigator PushNamed and Routes](https://www.youtube.com/watch?v=gmqD09eXcYk)
 
 ## Reactjs
 
