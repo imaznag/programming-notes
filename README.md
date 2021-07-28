@@ -40,6 +40,9 @@
 4. [How to do this in Flutter?](https://howtodothisinflutter.com/) 
 5. [Create one class for All text style like this :](https://stackoverflow.com/questions/60413218/set-color-to-text-widget-in-app-universally-in-flutter-without-mentioning-the-th)
 6. [Use Functional Widgets in Flutter to Reduce Boilerplate Code](https://medium.com/flutter-community/use-functional-widgets-in-flutter-to-reduce-boilerplate-code-9e815c2ddb94)
+7. [What is the difference between named and positional parameters in Dart?](https://stackoverflow.com/questions/13264230/what-is-the-difference-between-named-and-positional-parameters-in-dart)
+8. [How do I use hexadecimal color strings in Flutter?](https://stackoverflow.com/questions/50081213/how-do-i-use-hexadecimal-color-strings-in-flutter)
+9. [How to use new line character in Text Widget Flutter](https://stackoverflow.com/questions/57992926/how-to-use-new-line-character-in-text-widget-flutter)
 
 **Videos**
 
