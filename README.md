@@ -55,6 +55,7 @@
 7. [Best way of create splash screen in android flutter app](https://www.youtube.com/watch?v=0tsxOLTtxdc)
 8. [Visual Studio Code tools for flutter apps dev](https://flutter.dev/docs/development/tools/vs-code)
 9. [Flutter Offline Mode | Caching API Data Using HIVE Database](https://www.youtube.com/watch?v=scCDZgXGqhc)
+10. [Hive (Flutter Tutorial) – Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs)
 
 ## Reactjs
 
