@@ -1,5 +1,35 @@
 # programming-notes
 
+## useful websites
+
+1. [https://flaviocopes.com/](https://flaviocopes.com/)
+2. [flutlab : Do flutter on the go](https://flutlab.io/)
+3. [https://www.samanthaming.com/](https://www.samanthaming.com/)
+4. [https://www.dofactory.com/](https://www.dofactory.com/)
+5. [https://javascript.info/](https://javascript.info/)
+6. [https://www.javascripttutorial.net/](https://www.javascripttutorial.net/)
+7. [https://jscurious.com/](https://jscurious.com/)
+8. [Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
+9. [https://usefulangle.com/](https://usefulangle.com/)
+10. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+
+## Node js
+
+**Articles**
+
+1. [Node.js Tutorials](https://www.tutorialsteacher.com/nodejs/)
+
+**Videos**
+
+1. [Asynchronous JavaScript](https://www.youtube.com/watch?v=drK6mdA9d_M&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu&index=44)
+2. [Node Js Tutorial for Beginners](https://www.youtube.com/watch?v=9BaqW4mlCXk&list=PLlxmoA0rQ-LyMoEYRyd1L9oDaTRXOXdZa&index=59)
+
+## JavaScript Projects ideas
+
+**Videos**
+
+1. [Instant search in JavaScript](https://www.youtube.com/watch?v=gztjTUdXRS8)
+
 ## Graphql
 
 **Articles**
@@ -7,16 +37,25 @@
 1. [Send GraphQL queries with the Fetch API (without using Apollo, URQL or other GraphQL clients)](https://www.netlify.com/blog/2020/12/21/send-graphql-queries-with-the-fetch-api-without-using-apollo-urql-or-other-graphql-clients/)
 2. [GraphQL the Simple Way, or: Don't Use Apollo](https://httptoolkit.tech/blog/simple-graphql-server-without-apollo/)
 3. [Evolution of writing Graphql Schema](https://dilipkumar.medium.com/evolution-of-writing-graphql-schema-for-server-side-879907d8c698)
+4. [basic types](https://graphql.org/graphql-js/basic-types/)
+5. [Creating A GraphQL Server With Node.js And Express](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
 
 **Videos**
 
-1. [How to Fetch Data in React from a GraphQL API](https://www.youtube.com/watch?v=N9jK9ipnPw8)
-2. [GraphQL Tutorial #26 - Making Queries from React](https://www.youtube.com/watch?v=uyrUI1tgayk)
-3. [Introduction to GraphQL with Apollo and React](https://www.youtube.com/watch?v=eCO6MvvRhXk)
-4. [Four GraphQL Clients Compared](https://www.youtube.com/watch?v=zJvB2hnsXr0)
-5. [GraphQL Tutorial #2: Defining a GraphQL Schema](https://www.youtube.com/watch?v=30EpWsKbxtw)
+1. [GraphQL tutorial for beginners from the basics of graph-ql in one-video](https://www.youtube.com/watch?v=dJjP0SbdIt0)
+2. [How to Fetch Data in React from a GraphQL API](https://www.youtube.com/watch?v=N9jK9ipnPw8)
+3. [GraphQL Tutorial #26 - Making Queries from React](https://www.youtube.com/watch?v=uyrUI1tgayk)
+4. [Introduction to GraphQL with Apollo and React](https://www.youtube.com/watch?v=eCO6MvvRhXk)
+5. [Four GraphQL Clients Compared](https://www.youtube.com/watch?v=zJvB2hnsXr0)
+6. [GraphQL Tutorial #2: Defining a GraphQL Schema](https://www.youtube.com/watch?v=30EpWsKbxtw)
+7. [Fullstack React GraphQL | How To Connect React App To GraphQL Server | 2021 HD](https://www.youtube.com/watch?v=Rp4bPYuqr0c)
+8. 
 
 ## Testing API
+
+**Articles**
+
+1. [How could others, on a local network, access NodeJS app while it's running on local machine?](https://stackoverflow.com/questions/5489956/how-could-others-on-a-local-network-access-my-nodejs-app-while-its-running-on)
 
 **Videos**
 
@@ -56,6 +95,8 @@
 8. [Visual Studio Code tools for flutter apps dev](https://flutter.dev/docs/development/tools/vs-code)
 9. [Flutter Offline Mode | Caching API Data Using HIVE Database](https://www.youtube.com/watch?v=scCDZgXGqhc)
 10. [Hive (Flutter Tutorial) – Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs)
+11. [Flutter Horizontal List with A Snap Effect](https://www.youtube.com/watch?v=qx4JphWeVao)
+12. [How to use ListWheelScrollView](https://www.youtube.com/watch?v=SFY-3BW1bMw)
 
 ## Reactjs
 
@@ -65,6 +106,11 @@
 2. [How to connect your React app to a backend on the same origin](https://flaviocopes.com/how-to-serve-react-from-same-origin/)
 3. [React for Beginners: Complete React Cheatsheet for 2021](https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/)
 4. [This is why we need to bind event handlers in Class Components in React](https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/)
+5. [How to create your first MERN (MongoDB, Express JS, React JS and Node JS) Stack](https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+
+**Videos**
+1. [Create and Deploy a Gatsby Blog to Netlify](https://www.youtube.com/watch?v=729oQL9uQVo)
+2. [Building A Blog With MDX – Learn Next.js](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 
 ## React Native
 
@@ -94,3 +140,11 @@
 **Videos**
 
 1. [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
+
+## Docker | Git | Terminal
+
+**Videos**
+
+1. [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
