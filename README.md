@@ -1,8 +1,4 @@
-# programming-notes
-
-## useful websites
-
-1. [https://flaviocopes.com/](https://flaviocopes.com/)
+# programming-notes## useful websites1. [https://flaviocopes.com/](https://flaviocopes.com/)
 2. [flutlab : Do flutter on the go](https://flutlab.io/)
 3. [https://www.samanthaming.com/](https://www.samanthaming.com/)
 4. [https://www.dofactory.com/](https://www.dofactory.com/)
