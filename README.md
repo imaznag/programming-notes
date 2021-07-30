@@ -80,6 +80,7 @@
 7. [What is the difference between named and positional parameters in Dart?](https://stackoverflow.com/questions/13264230/what-is-the-difference-between-named-and-positional-parameters-in-dart)
 8. [How do I use hexadecimal color strings in Flutter?](https://stackoverflow.com/questions/50081213/how-do-i-use-hexadecimal-color-strings-in-flutter)
 9. [How to use new line character in Text Widget Flutter](https://stackoverflow.com/questions/57992926/how-to-use-new-line-character-in-text-widget-flutter)
+10. [Starting with Flutter: showing markdown](https://medium.com/theotherdev-s/starting-with-flutter-showing-markdown-6de94933f75a)
 
 **Videos**
 
@@ -147,3 +148,6 @@
 1. [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
+
+## Random Notes
+1. Best Blogger templates : Seo Pro - Medium Blogger template - 
