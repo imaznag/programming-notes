@@ -151,3 +151,4 @@
 
 ## Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
+2. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
