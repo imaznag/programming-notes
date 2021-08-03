@@ -12,7 +12,7 @@
 10. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
 ##CSS
-
+<span style="color:red">cardinals</span>
 **Articles**
 
 1. [Getting Started With Tailwind CSS](https://betterprogramming.pub/getting-started-with-tailwind-css-d96150d0ff5e)
