@@ -1,5 +1,5 @@
-# <span style='color:red'>Programming-notes</span>
-## Useful websites 
+# ![#f03c15](https://via.placeholder.com/20/f03c15/000000?text=+) Programming-notes
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Useful websites 
 1. [https://flaviocopes.com/](https://flaviocopes.com/)
 2. [flutlab : Do flutter on the go](https://flutlab.io/)
 3. [https://www.samanthaming.com/](https://www.samanthaming.com/)
@@ -11,13 +11,13 @@
 9. [https://usefulangle.com/](https://usefulangle.com/)
 10. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
-##CSS
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) CSS
 
 **Articles**
 
 1. [Getting Started With Tailwind CSS](https://betterprogramming.pub/getting-started-with-tailwind-css-d96150d0ff5e)
 
-## Node js
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Node js
 
 **Articles**
 
@@ -28,13 +28,13 @@
 1. [Asynchronous JavaScript](https://www.youtube.com/watch?v=drK6mdA9d_M&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu&index=44)
 2. [Node Js Tutorial for Beginners](https://www.youtube.com/watch?v=9BaqW4mlCXk&list=PLlxmoA0rQ-LyMoEYRyd1L9oDaTRXOXdZa&index=59)
 
-## JavaScript Projects ideas
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
 **Videos**
 
 1. [Instant search in JavaScript](https://www.youtube.com/watch?v=gztjTUdXRS8)
 
-## Graphql
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Graphql
 
 **Articles**
 
@@ -55,7 +55,7 @@
 7. [Fullstack React GraphQL | How To Connect React App To GraphQL Server | 2021 HD](https://www.youtube.com/watch?v=Rp4bPYuqr0c)
 8. 
 
-## Testing API
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Testing API
 
 **Articles**
 
@@ -65,7 +65,7 @@
 
 1. [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
 
-## Headless CMS
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Headless CMS
 
 **Videos**
 
@@ -73,7 +73,7 @@
 2. [Strapi Crash Course (with React & GraphQL)](https://www.youtube.com/watch?v=4Ntd414raYc)
 3. [Introduction to WPGraphQL](https://www.youtube.com/watch?v=N7H-a1232ow)
 
-## Flutter
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Flutter
 
 **Articles**
 
@@ -104,7 +104,7 @@
 12. [How to use ListWheelScrollView](https://www.youtube.com/watch?v=SFY-3BW1bMw)
 13. [Display Markdown as a Widget with flutter_markdown](https://www.youtube.com/watch?v=UQiggMp5skc)
 
-## Reactjs
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Reactjs
 
 **Articles**
 
@@ -118,7 +118,7 @@
 1. [Create and Deploy a Gatsby Blog to Netlify](https://www.youtube.com/watch?v=729oQL9uQVo)
 2. [Building A Blog With MDX – Learn Next.js](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 
-## React Native
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
 **Articles**
 
@@ -128,26 +128,26 @@
 
 1. [Build your first React Native app - Todo List Tutorial Part 1](https://www.youtube.com/watch?v=0kL6nhutjQ8)
 
-## Blogger (google blogs)
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Blogger (google blogs)
 
 **Articles**
 
 1. [How To Show Featured Post Only On Home Page On Blogger](https://www.meersworld.net/2020/01/how-to-show-featured-post-only-on-homepage.html)
 2. [How to Create Blogger Template from Scratch](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/)
 
-## Lunix
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Lunix
 
 **Videos**
 
 1. [Linux cli commands every developer must know: watch, tail, grep with option flags](https://www.youtube.com/watch?v=BVej6hIX4iA)
 
-## PHP
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) PHP
 
 **Videos**
 
 1. [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
 
-## Docker | Git | Terminal
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Docker | Git | Terminal
 
 **Videos**
 
@@ -155,6 +155,6 @@
 2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 
-## Random Notes
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
 2. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
