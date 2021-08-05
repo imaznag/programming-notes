@@ -119,6 +119,7 @@
 1. [Create and Deploy a Gatsby Blog to Netlify](https://www.youtube.com/watch?v=729oQL9uQVo)
 2. [Building A Blog With MDX – Learn Next.js](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 3. [ReactSecurity - Sanitize Content When Setting InnerHTML](https://www.youtube.com/watch?v=Cj7-i-S4TwA)
+4. [react-markdown](https://www.youtube.com/watch?v=YMpI5Ok1Ur8)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
