@@ -113,6 +113,7 @@
 3. [React for Beginners: Complete React Cheatsheet for 2021](https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/)
 4. [This is why we need to bind event handlers in Class Components in React](https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/)
 5. [How to create your first MERN (MongoDB, Express JS, React JS and Node JS) Stack](https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+6. [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
 
 **Videos**
 1. [Create and Deploy a Gatsby Blog to Netlify](https://www.youtube.com/watch?v=729oQL9uQVo)
