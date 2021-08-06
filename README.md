@@ -1,4 +1,4 @@
-# ![#f03c15](https://via.placeholder.com/20/f03c15/000000?text=+) Programming-notes
+# Programming-notes
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Useful websites 
 1. [https://flaviocopes.com/](https://flaviocopes.com/)
 2. [flutlab : Do flutter on the go](https://flutlab.io/)
