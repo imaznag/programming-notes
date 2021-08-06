@@ -11,6 +11,16 @@
 9. [https://usefulangle.com/](https://usefulangle.com/)
 10. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
+
+**Articles**
+
+1. []()
+
+**Videos**
+
+1. [HTML Crash Course for Beginners](https://www.youtube.com/watch?v=916GWv2Qs08)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) CSS
 
 **Articles**
