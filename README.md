@@ -173,3 +173,4 @@
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
 2. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
+3. [How to Host a Website for Free](https://www.youtube.com/watch?v=f8UNcMCbhk0)
