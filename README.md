@@ -10,6 +10,7 @@
 8. [Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
 9. [https://usefulangle.com/](https://usefulangle.com/)
 10. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+11. [dev.to](dev.to)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
 
