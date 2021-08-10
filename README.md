@@ -100,6 +100,7 @@
 8. [How do I use hexadecimal color strings in Flutter?](https://stackoverflow.com/questions/50081213/how-do-i-use-hexadecimal-color-strings-in-flutter)
 9. [How to use new line character in Text Widget Flutter](https://stackoverflow.com/questions/57992926/how-to-use-new-line-character-in-text-widget-flutter)
 10. [Starting with Flutter: showing markdown](https://medium.com/theotherdev-s/starting-with-flutter-showing-markdown-6de94933f75a)
+11. [how-to-read-and-write-a-text-file-in-flutter](https://stackoverflow.com/questions/54122850/how-to-read-and-write-a-text-file-in-flutter)
 
 **Videos**
 
