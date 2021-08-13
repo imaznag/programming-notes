@@ -175,21 +175,15 @@
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Docker | Git | Terminal
 
-**Videos**
-
-1. [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
-2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
-3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
-
-## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) PHP
-
 **Articles**
 
 1. [switch-focus-between-editor-and-integrated-terminal](https://stackoverflow.com/questions/42796887/switch-focus-between-editor-and-integrated-terminal-in-visual-studio-code)
 
 **Videos**
 
-1.
+1. [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
