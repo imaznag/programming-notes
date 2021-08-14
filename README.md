@@ -45,6 +45,7 @@
 1. [Asynchronous JavaScript](https://www.youtube.com/watch?v=drK6mdA9d_M&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu&index=44)
 2. [Node Js Tutorial for Beginners](https://www.youtube.com/watch?v=9BaqW4mlCXk&list=PLlxmoA0rQ-LyMoEYRyd1L9oDaTRXOXdZa&index=59)
 3. [Rest Api Using Express and SQLite](https://www.youtube.com/watch?v=cr3pX6fSUpc)
+4. [Rest application with Node JS Express & Sequelize & SQLite](https://www.youtube.com/watch?v=bWFuEVmRgdk)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
