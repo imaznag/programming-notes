@@ -186,6 +186,12 @@
 2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) DataBases
+
+**Articles**
+
+1. [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
+
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
