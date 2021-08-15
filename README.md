@@ -145,6 +145,7 @@
 5. [Dynamically Load Markdown files into React for your Blog | markdown-to-jsx](https://www.youtube.com/watch?v=qdTisPssu24)
 6. [Fetch Data from the Github API with JavaScript/React](https://www.youtube.com/watch?v=aGiPMygfMM4)
 7. [Blog with Next.js and and Strapi CMS](https://www.youtube.com/watch?v=599ogMbXIyA)
+8. [Why Are Keys Important In React?](https://www.youtube.com/watch?v=c0OwxIdP5CM)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
