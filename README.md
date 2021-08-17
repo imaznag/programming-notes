@@ -39,6 +39,7 @@
 **Articles**
 
 1. [Node.js Tutorials](https://www.tutorialsteacher.com/nodejs/)
+2. [Environment Variables in Node.js](https://www.section.io/engineering-education/nodejs-environment-variables/)
 
 **Videos**
 
