@@ -48,6 +48,7 @@
 2. [Node Js Tutorial for Beginners](https://www.youtube.com/watch?v=9BaqW4mlCXk&list=PLlxmoA0rQ-LyMoEYRyd1L9oDaTRXOXdZa&index=59)
 3. [Rest Api Using Express and SQLite](https://www.youtube.com/watch?v=cr3pX6fSUpc)
 4. [Rest application with Node JS Express & Sequelize & SQLite](https://www.youtube.com/watch?v=bWFuEVmRgdk)
+5. [Build Node.js User Authentication - Password Login](https://www.youtube.com/watch?v=Ud5xKCYQTjM)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
