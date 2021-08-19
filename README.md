@@ -34,6 +34,10 @@
 
 1. [Getting Started With Tailwind CSS](https://betterprogramming.pub/getting-started-with-tailwind-css-d96150d0ff5e)
 
+**Videos**
+
+1. [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Node js
 
 **Articles**
