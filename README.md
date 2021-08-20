@@ -194,6 +194,7 @@
 1. [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
+4. [تعلم git & github في 25 دقيقة !! - الجزء الأول](https://www.youtube.com/watch?v=2QP4QxzG-wY)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) DataBases
 
