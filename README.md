@@ -143,6 +143,7 @@
 5. [How to create your first MERN (MongoDB, Express JS, React JS and Node JS) Stack](https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
 6. [2 Ways to Render HTML Content in React and JSX](https://www.kindacode.com/article/ways-to-render-html-content-in-react-and-jsx/)
 7. [How to detect click outside in a React component](https://www.codingdeft.com/posts/react-on-click-outside/)
+8. [how-to-import-a-txt-file-from-my-source](https://newbedev.com/how-to-import-a-txt-file-from-my-source)
 
 **Videos**
 1. [Create and Deploy a Gatsby Blog to Netlify](https://www.youtube.com/watch?v=729oQL9uQVo)
