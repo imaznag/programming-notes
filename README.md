@@ -17,6 +17,8 @@
 15. [tailwindtoolbox](https://www.tailwindtoolbox.com/)
 16. [Markdown editor](https://stackedit.io/)
 17. [programming on the go](anyfiddle.com)
+18. [CSS patterns](http://www.heropatterns.com/)
+19. [https://css-tricks.com/](https://css-tricks.com/)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
 
