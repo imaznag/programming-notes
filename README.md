@@ -19,6 +19,7 @@
 17. [programming on the go](anyfiddle.com)
 18. [CSS patterns](http://www.heropatterns.com/)
 19. [https://css-tricks.com/](https://css-tricks.com/)
+20. [modern-javascript-cheatsheet](https://newbedev.com/modern-javascript-cheatsheet)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
 
