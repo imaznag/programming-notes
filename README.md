@@ -188,6 +188,10 @@
 
 1. [How to run your HTML/PHP site on localhost with XAMPP](https://www.youtube.com/watch?v=K-qXW9ymeYQ)
 
+**Articles**
+
+1. [MongoDB and Laravel Integration](https://www.mongodb.com/compatibility/mongodb-laravel-intergration)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Docker | Git | Terminal
 
 **Articles**
