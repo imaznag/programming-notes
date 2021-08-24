@@ -20,6 +20,7 @@
 18. [CSS patterns](http://www.heropatterns.com/)
 19. [https://css-tricks.com/](https://css-tricks.com/)
 20. [modern-javascript-cheatsheet](https://newbedev.com/modern-javascript-cheatsheet)
+21. [https://codedamn.com/](https://codedamn.com/)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
 
