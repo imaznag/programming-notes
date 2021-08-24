@@ -158,6 +158,7 @@
 7. [Blog with Next.js and and Strapi CMS](https://www.youtube.com/watch?v=599ogMbXIyA)
 8. [Why Are Keys Important In React?](https://www.youtube.com/watch?v=c0OwxIdP5CM)
 9. [How to Use React Syntax Highlighting for Any Language](https://www.youtube.com/watch?v=jQdPiiv-Y2k)
+10. [How to Fetch Data in React With A Custom useFetch Hook](https://www.youtube.com/watch?v=Vspeudp-M9k)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
