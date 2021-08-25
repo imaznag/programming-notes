@@ -136,11 +136,12 @@
 8. [Visual Studio Code tools for flutter apps dev](https://flutter.dev/docs/development/tools/vs-code)
 9. [Flutter Offline Mode | Caching API Data Using HIVE Database](https://www.youtube.com/watch?v=scCDZgXGqhc)
 10. [Hive (Flutter Tutorial) – Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs)
-11. [Flutter Horizontal List with A Snap Effect](https://www.youtube.com/watch?v=qx4JphWeVao)
-12. [How to use ListWheelScrollView](https://www.youtube.com/watch?v=SFY-3BW1bMw)
-13. [Display Markdown as a Widget with flutter_markdown](https://www.youtube.com/watch?v=UQiggMp5skc)
-14. [Flutter + Strapi Fullstack CRUD Application](https://www.youtube.com/watch?v=gmEPNyjlrOY)
-15. []()
+11. [Flutter HiveDB - Cache API Data Simple](https://www.youtube.com/watch?v=sKMSAf3dECs)
+12. [Flutter Horizontal List with A Snap Effect](https://www.youtube.com/watch?v=qx4JphWeVao)
+13. [How to use ListWheelScrollView](https://www.youtube.com/watch?v=SFY-3BW1bMw)
+14. [Display Markdown as a Widget with flutter_markdown](https://www.youtube.com/watch?v=UQiggMp5skc)
+15. [Flutter + Strapi Fullstack CRUD Application](https://www.youtube.com/watch?v=gmEPNyjlrOY)
+16. []()
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Reactjs
 
