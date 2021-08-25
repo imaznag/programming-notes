@@ -22,6 +22,10 @@
 20. [modern-javascript-cheatsheet](https://newbedev.com/modern-javascript-cheatsheet)
 21. [https://codedamn.com/](https://codedamn.com/)
 
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Top Youtube Channels 
+1. [Academind](https://www.youtube.com/c/Academind/playlists)
+2. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) HTML
 
 **Articles**
