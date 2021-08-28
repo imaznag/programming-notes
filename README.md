@@ -41,6 +41,8 @@
 **Articles**
 
 1. [Getting Started With Tailwind CSS](https://betterprogramming.pub/getting-started-with-tailwind-css-d96150d0ff5e)
+2. [flexbox](https://flexbox.malven.co/)
+3. [grid](https://grid.malven.co/)
 
 **Videos**
 
