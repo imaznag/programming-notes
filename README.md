@@ -171,6 +171,7 @@
 9. [How to Use React Syntax Highlighting for Any Language](https://www.youtube.com/watch?v=jQdPiiv-Y2k)
 10. [How to Fetch Data in React With A Custom useFetch Hook](https://www.youtube.com/watch?v=Vspeudp-M9k)
 11. [react-query](https://www.youtube.com/playlist?list=PLny5mMlTApjawz_hwHGfZ6_TKPMXJXJzd)
+12. [Smooth Scrolling Navbar Transition in ReactJS](https://www.youtube.com/watch?v=d0c4aPO9PNg)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
