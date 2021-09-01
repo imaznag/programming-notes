@@ -44,6 +44,7 @@
 1. [Getting Started With Tailwind CSS](https://betterprogramming.pub/getting-started-with-tailwind-css-d96150d0ff5e)
 2. [flexbox](https://flexbox.malven.co/)
 3. [grid](https://grid.malven.co/)
+4. [Circular Images with CSS](https://www.webfx.com/blog/web-design/circular-images-css/)
 
 **Videos**
 
