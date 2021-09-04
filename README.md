@@ -66,6 +66,7 @@
 4. [Rest application with Node JS Express & Sequelize & SQLite](https://www.youtube.com/watch?v=bWFuEVmRgdk)
 5. [Build Node.js User Authentication - Password Login](https://www.youtube.com/watch?v=Ud5xKCYQTjM)
 6. [Redis Caching in Node.js](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
+7. [full stack project](https://www.youtube.com/watch?v=cDNejBxZ0hI)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
