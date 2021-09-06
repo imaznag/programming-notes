@@ -72,7 +72,7 @@
 
 **Articles**
 
-1. []()
+1. [TypeScript Crash Course](https://gabrieltanner.org/blog/typescript-crash-course)
 
 **Videos**
 
