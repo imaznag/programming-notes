@@ -232,6 +232,7 @@
 2. [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 3. [Course: Beginners Guide to the Terminal (Bash)](https://www.youtube.com/watch?v=dsCfi0yRr1w)
 4. [تعلم git & github في 25 دقيقة !! - الجزء الأول](https://www.youtube.com/watch?v=2QP4QxzG-wY)
+5. [Git - Step by Step Guide](https://www.youtube.com/watch?v=1GAUkyHYlow)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) DataBases
 
