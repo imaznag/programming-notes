@@ -68,6 +68,16 @@
 6. [Redis Caching in Node.js](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 7. [full stack project](https://www.youtube.com/watch?v=cDNejBxZ0hI)
 
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Typescript
+
+**Articles**
+
+1. []()
+
+**Videos**
+
+1. [TypeScript Crash Course 2021](https://www.youtube.com/watch?v=BCg4U1FzODs)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
 **Videos**
