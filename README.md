@@ -247,3 +247,9 @@
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
 2. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
 3. [How to Host a Website for Free](https://www.youtube.com/watch?v=f8UNcMCbhk0)
+
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JSON PUBLIC APIs
+1. [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
+2. [list of pokemon](https://pokeapi.co/api/v2/pokemon)
+3. [countries](https://restcountries.eu/)
+4. [numbers api (plain text response)](http://numbersapi.com/)
