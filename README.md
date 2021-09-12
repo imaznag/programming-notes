@@ -245,6 +245,7 @@
 **Articles**
 
 1. [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
+2. [Do You Need Mongoose When Developing Node.js and MongoDB Applications?](https://www.mongodb.com/developer/article/mongoose-versus-nodejs-driver/)
 
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
