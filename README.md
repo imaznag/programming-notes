@@ -62,6 +62,7 @@
 1. [Node.js Tutorials](https://www.tutorialsteacher.com/nodejs/)
 2. [Environment Variables in Node.js](https://www.section.io/engineering-education/nodejs-environment-variables/)
 3. [Node.js Everywhere with Environment Variables!](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
+4. [Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 
 **Videos**
 
