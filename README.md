@@ -253,10 +253,11 @@
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
-2. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
-3. [How to Host a Website for Free](https://www.youtube.com/watch?v=f8UNcMCbhk0)
-4. [gifs](https://giphy.com/)
-5. [a faster alternative to using the arrow keys?](https://stackoverflow.com/questions/45509922/is-there-a-faster-alternative-to-using-the-arrow-keys)
+2. free hosting platformes : cloudflare pages, github pages, netlify , vercel, heroku
+3. [Full Stack Developer Roadmap 2021](https://www.youtube.com/watch?v=IIDuE0dnXlo)
+4. [How to Host a Website for Free](https://www.youtube.com/watch?v=f8UNcMCbhk0)
+5. [gifs](https://giphy.com/)
+6. [a faster alternative to using the arrow keys?](https://stackoverflow.com/questions/45509922/is-there-a-faster-alternative-to-using-the-arrow-keys)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JSON PUBLIC APIs
 1. [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
