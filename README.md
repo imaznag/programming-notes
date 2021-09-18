@@ -27,6 +27,7 @@
 25. [https://websitesetup.org/](https://websitesetup.org/)
 26. [code in many languages — without spending a second on setup.](https://replit.com/)
 27. [react-icons](https://react-icons.github.io/react-icons/)
+28. [start blogging as a developer](https://hashnode.com/)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Top Youtube Channels 
 1. [Academind](https://www.youtube.com/c/Academind/playlists)
