@@ -66,6 +66,7 @@
 3. [Node.js Everywhere with Environment Variables!](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
 4. [Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 5. [Building a Restful CRUD API with Node JS, Express, and MongoDB](https://blog.suhailkakar.com/building-a-restful-crud-api-with-node-js-express-and-mongodb)
+6. [How to use CORS in Node.js with Express](https://www.section.io/engineering-education/how-to-use-cors-in-nodejs-with-express/)
 
 **Videos**
 
