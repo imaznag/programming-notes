@@ -217,6 +217,10 @@
 1. [How To Show Featured Post Only On Home Page On Blogger](https://www.meersworld.net/2020/01/how-to-show-featured-post-only-on-homepage.html)
 2. [How to Create Blogger Template from Scratch](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/)
 
+**Videos**
+
+1.[How To Add A Custom Responsive Header To Your Blogger Website](https://www.youtube.com/watch?v=0gUuWzS_ngw)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Lunix
 
 **Videos**
