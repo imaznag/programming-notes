@@ -199,6 +199,12 @@
 11. [react-query](https://www.youtube.com/playlist?list=PLny5mMlTApjawz_hwHGfZ6_TKPMXJXJzd)
 12. [Smooth Scrolling Navbar Transition in ReactJS](https://www.youtube.com/watch?v=d0c4aPO9PNg)
 
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Gatsby js
+
+**Articles**
+
+1.[Working with Images in Markdown Posts and Pages](https://www.gatsbyjs.com/docs/working-with-images-in-markdown/)
+
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
 **Articles**
