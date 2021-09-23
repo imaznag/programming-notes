@@ -203,7 +203,8 @@
 
 **Articles**
 
-1.[Working with Images in Markdown Posts and Pages](https://www.gatsbyjs.com/docs/working-with-images-in-markdown/)
+1. [Working with Images in Markdown Posts and Pages](https://www.gatsbyjs.com/docs/working-with-images-in-markdown/)
+2. [Gatsby blog with Markdown - project](https://github.com/VasilyMur/Gatsby-Intro) 
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) React Native
 
