@@ -79,6 +79,7 @@
 7. [full stack project](https://www.youtube.com/watch?v=cDNejBxZ0hI)
 8. [Hiding API Keys with Environment Variables (dotenv) and Pushing Code to GitHub](https://www.youtube.com/watch?v=17UVejOw3zA)
 9. [ES Modules in NodeJS and the Browser](https://www.youtube.com/watch?v=jwcD9n3RqWQ)
+10. [How To Make a Reverse Proxy with NGINX 2020](https://www.youtube.com/watch?v=R_LRIjNagIM)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Typescript
 
