@@ -67,6 +67,7 @@
 4. [Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 5. [Building a Restful CRUD API with Node JS, Express, and MongoDB](https://blog.suhailkakar.com/building-a-restful-crud-api-with-node-js-express-and-mongodb)
 6. [How to use CORS in Node.js with Express](https://www.section.io/engineering-education/how-to-use-cors-in-nodejs-with-express/)
+7. [Comparing forever vs. nodemon vs. pm2 vs. strong-pm](https://npmcompare.com/compare/forever,nodemon,pm2,strong-pm)
 
 **Videos**
 
