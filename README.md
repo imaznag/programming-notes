@@ -274,6 +274,9 @@
 2. [Do You Need Mongoose When Developing Node.js and MongoDB Applications?](https://www.mongodb.com/developer/article/mongoose-versus-nodejs-driver/)
 3. [Data Validation With Mongoose in Node.js](https://javascript.plainenglish.io/store-clean-data-by-validating-models-with-mongoose-f6453dbdbff9)
 
+**Videos**
+
+1. [MongoDB Crash Course](https://www.youtube.com/watch?v=ofme2o29ngU)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Random Notes
 1. Best Blogger templates : Seo Pro - Medium Blogger template - 
