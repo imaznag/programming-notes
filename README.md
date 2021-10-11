@@ -99,6 +99,7 @@
 
 1. [TypeScript Crash Course 2021](https://www.youtube.com/watch?v=BCg4U1FzODs)
 2. [How to bundle a TypeScript app using Parcel](https://www.youtube.com/watch?v=ciRdVJh9LRU)
+3. [Web Scraping With Javascript (Puppeteer Tutorial)](https://www.youtube.com/watch?v=Sag-Hz9jJNg)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JavaScript Projects ideas
 
