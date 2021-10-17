@@ -292,6 +292,7 @@
 5. [gifs](https://giphy.com/)
 6. [a faster alternative to using the arrow keys?](https://stackoverflow.com/questions/45509922/is-there-a-faster-alternative-to-using-the-arrow-keys)
 7. [Recommended upload encoding settings for youtube](https://support.google.com/youtube/answer/1722171?hl=en#zippy=%2Cbitrate)
+8. [تعديل الصور و تصديرها دفعة واحدة من الفوتوشوب | Adobe Photoshop](https://www.youtube.com/watch?v=CX7v2KFt0Ik)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) JSON PUBLIC APIs
 1. [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
