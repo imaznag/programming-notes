@@ -299,3 +299,6 @@
 2. [list of pokemon](https://pokeapi.co/api/v2/pokemon)
 3. [countries](https://restcountries.eu/)
 4. [numbers api (plain text response)](http://numbersapi.com/)
+
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) WordPress
+1. [How To Install Wordpress Locally and Move to Live Website](https://www.youtube.com/watch?v=wbgdQyHi_yg)
