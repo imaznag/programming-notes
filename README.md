@@ -32,6 +32,7 @@
 30. [code in many languages — without spending a second on setup.](https://replit.com/)
 31. [react-icons](https://react-icons.github.io/react-icons/)
 32. [start blogging as a developer](https://hashnode.com/)
+33. [https://www.canva.com/](https://www.canva.com/)
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Top Youtube Channels 
 1. [Academind](https://www.youtube.com/c/Academind/playlists)
