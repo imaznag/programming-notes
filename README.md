@@ -306,3 +306,4 @@
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Scratch
 1. [Scratch Code Blocks Explained | How to use Scratch Blocks and What They Do](https://www.youtube.com/watch?v=VhfEcEj0fSc)
+2. [Making a Basic Game without Coding in Scratch](https://www.facebook.com/GamesSocietyJU/videos/679146389109410)
