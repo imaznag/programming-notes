@@ -303,3 +303,6 @@
 
 ## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) WordPress
 1. [How To Install Wordpress Locally and Move to Live Website](https://www.youtube.com/watch?v=wbgdQyHi_yg)
+
+## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Scratch
+1. [Scratch Code Blocks Explained | How to use Scratch Blocks and What They Do](https://www.youtube.com/watch?v=VhfEcEj0fSc)
